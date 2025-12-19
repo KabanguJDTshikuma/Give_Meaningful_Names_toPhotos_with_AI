@@ -20,6 +20,7 @@ text that describes an image or answer a question about an image.
 
 
 **Introduction**
+
 Images, rich with untapped information, often come under the radar of search engines and data systems. Transforming this visual data into machine-readable language is no easy task, but it's where image captioning AI is useful. Here's how image captioning AI can make a difference:
 
 _Improves accessibility_: Helps visually impaired individuals understand visual content.
